@@ -2,7 +2,7 @@
 
 ## (Unpacked APK) Source Code Download: [SMMWE 3.2.2 (Android)](https://drive.google.com/file/d/1N9hGTJbjZlAXQKIygASniYy0UvVsCsmL/view?usp=sharing)
 
-## (Decompiled) Source Code Download: [SMMWE 3.1.1 (Computer)](https://drive.google.com/file/d/1M6SV6R87PrZidJVVXDpAJo777AjheD8W/view?usp=sharing)
+## (Decompiled) Source Code Download: [SMMWE 3.1.1 (Android/Computer)](https://drive.google.com/file/d/1M6SV6R87PrZidJVVXDpAJo777AjheD8W/view?usp=sharing)
 
 ## Contributers
 NickoPlayz 2018
